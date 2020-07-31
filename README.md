@@ -1,4 +1,4 @@
-# WatchedPotThatNeverBoils
+# A Watched Pot That Never Boils
 
 I built a burner that will turn itself off when you look at it. Thus, it is a "Watched Pot that Never Boils".
 
