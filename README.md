@@ -1,5 +1,5 @@
 # A Watched Pot That Never Boils
-![A Watched Pot That Never Boils](https://github.com/hamac2003/WatchedPotThatNeverBoils/blob/master/wpnb_cover.JPG, "cover")
+![A Watched Pot That Never Boils](https://github.com/hamac2003/WatchedPotThatNeverBoils/wpnb_cover.JPG, "cover")
 I built a burner that will turn itself off when you look at it. Thus, it is a "Watched Pot that Never Boils".
 
 
